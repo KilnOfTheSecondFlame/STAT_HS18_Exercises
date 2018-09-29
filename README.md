@@ -1,4 +1,3 @@
-# STAT_HS18_Exercises
+# STAT Exercises HS 2018
 
-:3
-<3
+All the exercise series for the module 'Statistics for Data Science' at the university HSLU
