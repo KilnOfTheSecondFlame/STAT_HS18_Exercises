@@ -1,3 +1,4 @@
+"Age" "Alive" "Age_Estimated"
 63 0 70
 69 0 71
 58 0 71
